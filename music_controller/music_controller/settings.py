@@ -26,8 +26,6 @@ SECRET_KEY = 'django-insecure-#qp8_41qb#%zzt87^!%wl^0p_)!qhcunxqz284r&*d$rd)-11=
 DEBUG = True
 
 ALLOWED_HOSTS = []
-# add '0.0.0.0', IP address into allowed hosts (possibly with :8000 port)
-# runserver 0.0.0.0:port_number
 
 # Application definition
 
